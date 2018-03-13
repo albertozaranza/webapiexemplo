@@ -8,3 +8,4 @@ C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercíci
 C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\06032018\GitHub\webapiexemplo\WebApplication\WebApplication\bin\Debug\netcoreapp2.0\WebApplication.pdb
 C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\06032018\GitHub\webapiexemplo\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.dll
 C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\06032018\GitHub\webapiexemplo\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.pdb
+C:\Users\Alberto Zaranza\Documents\BCC\S5\Linguagem de Programação 2\Exercícios\06032018\GitHub\webapiexemplo\WebApplication\WebApplication\obj\Debug\netcoreapp2.0\WebApplication.csprojResolveAssemblyReference.cache
